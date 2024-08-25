@@ -10,7 +10,7 @@ Vulnerability Scanner is a Django-based web application that scans websites for 
 
 ## Installation
 
-
+1. git push ```https://github.com/BoborahimAlisherovich/saytlar-test.git```
 2. **Create and activate a virtual environment:**
 
     ```bash
