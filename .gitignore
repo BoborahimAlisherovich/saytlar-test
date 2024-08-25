@@ -1,0 +1,29 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+*.sqlite3
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+
+# Special temporary files
+*.tmp
+*.bak
+*.swp
