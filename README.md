@@ -109,16 +109,3 @@ The application includes basic tests for the vulnerability checks. To run the te
 ```bash
 python manage.py test scanner
 ```
-
-
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For additional information or to report issues, you can contact:
-
-Email: solihahusniddinova27@gmail.com
-GitHub: Salikha003
